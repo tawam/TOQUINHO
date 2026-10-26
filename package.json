@@ -1,0 +1,11 @@
+{
+  "name": "toquinho-80-anos",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Toquinho 80 anos e Toquinho 360",
+  "scripts": {
+    "start": "node serve.mjs",
+    "check": "node --check script.js && node --check serve.mjs"
+  },
+  "engines": { "node": ">=18" }
+}
