@@ -1,53 +1,25 @@
-# Fontes e créditos
+# Fontes e créditos · v4
 
-Consulta: 26 de outubro de 2026.
+A versão reescreve e reorganiza a proposta original TOQUINHOE29420ANOS.pdf.pdf a partir da versão anterior e de AJUSTES DA APRESENTAÇÃO — TOQUINHO 29_10.pdf. A comemoração proposta ocorre em 2027, após os 80 anos de vida completados em 2026. O item de reordenação ligado ao áudio segue em aberto.
 
-## Documento da proposta
+## SevenX
 
-`TOQUINHOE29420ANOS.pdf.pdf`, fornecido pelo solicitante, 5 páginas. É o único PDF convertido em apresentação web. Sua cópia integral está em `assets/documents/toquinho-80-anos-proposta.pdf`.
+- A frase de abertura e o tempo de atuação vêm de APRE-SX-v6_comp.pdf e Be _ Seven X.pdf. A assinatura também aparece no [Linktree da SevenX](https://linktr.ee/seven.exp).
+- A marca vetorial vem do [repositório Zé Ramalho 50 Anos](https://github.com/tawam/Z-Ramalho-50-Anos/blob/main/assets/logo/sevenx_logo.svg). A máscara de partículas foi amostrada da própria marca.
+- Coldplay. Foto e escopo local do case em Be _ Seven X.pdf, p. 8. A [agenda oficial da banda](https://www.coldplay.com/new-dates-for-brazil-shows/) confirma as apresentações em Curitiba.
+- Coolritiba. Foto de Be _ Seven X.pdf, p. 7. O [site do festival](https://coolritiba.art.br/sobre/) registra sua estreia em 2017 e o [FAQ oficial](https://coolritiba.art.br/faq/) credita a realização à Seven Experience.
+- Neodent Congress Party. Foto e escopo em Be _ Seven X.pdf, p. 10. A relação da Be Live Marketing com a SevenX é descrita na p. 2.
+- A [página da SevenX na Popster](https://stores.popster.app/produtora/seven-x) registra o espetáculo dos 60 anos de música de Toquinho no Teatro Guaíra.
 
-As 15 partes foram distribuídas em: celebração; experiência no palco; encontros; turnê; comunicação e registro; Toquinho 360; crianças; festivais; booking e produção; marca; governança e próximo capítulo. A sequência completa de operação comercial da página 4 foi conferida visualmente, pois a extração de texto não a capturou.
+A pesquisa visual considerou imagens externas, incluindo [a cobertura de Coolritiba no Promoview](https://www.promoview.com.br/pedreira-paulo-leminski-curitiba-festivais/) e [a publicação da Gazeta do Povo sobre Coldplay](https://www.gazetadopovo.com.br/vozes/francisco-escorsim/a-musica-escondida-no-show-do-coldplay/). As fotos de imprensa não integram o pacote. Os fundos de bastidor e cordas do violão foram gerados para as cenas de atmosfera.
 
-## Trajetória
+## Toquinho
 
-- [Biografia oficial de Toquinho](https://www.toquinho.com.br/): origem em São Paulo, formação com Paulinho Nogueira, primeiro LP em 1966, encontro com Vinicius em 1970, Aquarela e Casa de Brinquedos em 1983.
-- [Ecad — Toquinho chega aos 80 anos com canções de puro afeto](https://www4.ecad.org.br/noticias/toquinho-chega-aos-80-anos-com-cancoes-de-puro-afeto/), publicado em 6 de julho de 2026: aniversário de 80 anos e permanência do repertório.
-
-Não foram acrescentadas datas de turnê, convidados confirmados, patrocínios fechados ou resultados comerciais. As referências a Luísa Sonza, Tiago Iorc, Vibra SP e 31/10/2026 são mantidas como conexões previstas no documento. Os demais nomes continuam identificados como aproximações. A foto de Camilla Faustino documenta um encontro de palco; não afirma sua contratação para a proposta de 2027.
-
-## Identidade e referências visuais
-
-- Marca fornecida: `Logos/Logo 60 anos (1).png`. O recorte contém apenas o nome Toquinho; a assinatura dos 60 anos foi omitida para não confundir a celebração de 80 anos de vida com 60 anos de carreira.
-- [Bodoni Moda](https://fonts.google.com/specimen/Bodoni+Moda): serifas e contraste visual próximos à marca; títulos.
-- [Manrope](https://fonts.google.com/specimen/Manrope): texto, navegação e informações de apoio.
-- [Awwwards — Typographic Layout, Mysta Electric](https://www.awwwards.com/inspiration/typographic-layout-mysta-electric): referência de escala e hierarquia tipográfica, sem reutilização de código ou mídia.
-- [Awwwards — Exhibition Page](https://www.awwwards.com/inspiration/exhibition-page): referência editorial de apresentação cultural, sem reutilização de código ou mídia.
-
-Fontes hospedadas localmente, com licenças em `assets/fonts/bodoni-OFL.txt` e `assets/fonts/manrope-OFL.txt`.
-
-## Fotografias
-
-Todas as fotografias são do acervo local `2. FOTOS AO VIVO`, fornecido pelo solicitante. Foram geradas cópias WebP otimizadas, sem modificar os originais.
-
-| Arquivo no site | Original fornecido |
+| Cena | Original do acervo fornecido |
 | --- | --- |
-| hero.webp | toquinhoreel-239.jpeg |
-| portrait.webp | toquinhoreel-234.jpeg |
-| stage.webp | Espaço Unimed - Toquinho - 17-10-25 - Foto Marcos Oliveira @marcosoliveirapht-28.jpeg |
-| memory.webp | toquinhoreel-221.jpeg |
-| audience.webp | 0B4A1123.jpeg |
-| encounters.webp | Espaço Unimed - Toquinho - 17-10-25 - Foto Marcos Oliveira @marcosoliveirapht-36.jpeg |
-| live-wide.webp | toquinhoreel-237.jpeg |
-| finale.webp | 0B4A1132.jpeg |
+| Capa de 80 anos | toquinhoreel-234.jpeg |
+| Espetáculo | toquinhoreel-222.jpeg |
+| Encontros | toquinhoreel-218.jpeg |
+| Encerramento | 0B4A1132.jpeg |
 
-Os arquivos `stage` e `encounters` identificam Marcos Oliveira, @marcosoliveirapht, no nome do original. Para os demais, o acervo recebido não traz autoria no nome do arquivo. Não foi atribuída autoria por inferência.
-
-## Skills aplicadas
-
-- PDF: extração e conferência visual das cinco páginas.
-- UI/UX Pro Max: princípios de leitura, contraste, navegação e responsividade. A recomendação visual genérica do catálogo foi descartada em favor da identidade fornecida.
-- Fluid Web Motion: duração e continuidade de movimento, com respeito à redução de animações.
-- Sites: organização de apresentação e preparação de uma entrega estática local.
-- [Frontend Design, Anthropic](https://github.com/anthropics/skills/tree/main/skills/frontend-design): instalada no ambiente global para esta entrega; direção de arte e crítica visual.
-
-Não há créditos de ferramentas ou informações de implementação na página apresentada ao visitante.
+As fotos ilustram registros de shows anteriores. Os convidados, as datas, os espaços de mídia e as frentes comerciais da proposta seguem a definir. A marca Toquinho é o recorte do nome no material fornecido. As fontes Manrope e Bodoni Moda estão hospedadas localmente com suas licenças.
